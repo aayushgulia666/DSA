@@ -57,7 +57,7 @@ int Count (struct Node * p){
 
 int main(){
 
-    int A[10] = {9,8,1,8,8,1,2,8,4,2};
+    int A[10] = {1,2,3,4,5,6,7,8,9,0};
     int len = 10;
 
     Create(A, len);
